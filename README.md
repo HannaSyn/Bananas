@@ -1,5 +1,7 @@
 # Bananas
 
+[CodePen](https://codepen.io/RybkaSyn/pen/WNoqOLX?editors=0012)
+
 My thought process:
 
 1. Determine the first step
